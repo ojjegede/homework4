@@ -193,7 +193,7 @@ padding: 30px;
 .nav{
   background-color: #ddd;
   text-align: right;
-  justify-self: right;
+  justify-self: center;
   padding-top: 35px;
   padding-bottom: 35px;
   grid-column: 1 / -1;
